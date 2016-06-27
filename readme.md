@@ -20,6 +20,8 @@ creator:
 - Lecture
 - Codealong
 
+---
+
 #### Review
 
 * What is [Node.js](https://nodejs.org) and what does it enable us to do?
